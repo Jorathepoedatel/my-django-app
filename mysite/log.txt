@@ -1,0 +1,1234 @@
+[2026-06-07 17:12:42,407] INFO [shopapp.views: Rendering shop index page]
+[2026-06-07 17:12:46,361] INFO [shopapp.views: Rendering shop index page]
+[2026-06-07 17:12:54,561] INFO [shopapp.views: Rendering shop index page]
+[2026-06-07 17:16:04,682] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/settings.py changed, reloading.]
+[2026-06-07 17:16:04,890] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 17:16:13,142] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/settings.py changed, reloading.]
+[2026-06-07 17:16:13,351] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 17:36:29,120] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 17:36:34,568] WARNING [django.request: Not Found: /]
+[2026-06-07 21:22:26,192] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:22:28,781] WARNING [django.request: Not Found: /]
+[2026-06-07 21:26:54,495] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:26:54,732] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:27:36,519] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:30:17,565] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:30:17,822] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:33:26,543] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:33:34,363] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:33:35,645] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:36:03,075] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:37:40,979] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:37:41,222] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:37:41,778] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:37:42,817] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:37:46,672] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:38:02,618] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:38:02,873] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:38:07,274] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:38:21,263] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:38:22,551] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:38:24,362] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:39:31,087] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:39:31,343] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:39:33,484] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:39:34,801] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:39:35,942] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:41:38,015] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:41:38,238] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:41:41,104] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:41:41,738] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:46:43,870] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:46:44,132] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:46:44,648] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:46:45,903] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:46:46,911] ERROR [django.request: Internal Server Error: /admin/shopapp/product/add/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 221, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 333, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 511, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'app_list' with keyword arguments '{'app_label': ''}' not found. 1 pattern(s) tried: ['admin/(?P<app_label>auth|shopapp)/$']
+[2026-06-07 21:46:47,108] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 21:47:26,773] ERROR [django.request: Internal Server Error: /admin/shopapp/product/add/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 221, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/test/utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 333, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 511, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'app_list' with keyword arguments '{'app_label': ''}' not found. 1 pattern(s) tried: ['admin/(?P<app_label>auth|shopapp)/$']
+[2026-06-07 21:48:32,722] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:51:20,810] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:51:21,040] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:56:01,415] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:56:01,652] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:56:29,132] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:56:29,381] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:57:13,033] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:57:13,273] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:57:48,820] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:57:49,065] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:58:36,764] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:58:36,998] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:59:00,421] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:59:00,667] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 21:59:51,395] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 21:59:51,630] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:00:09,484] ERROR [django.request: Internal Server Error: /admin/shopapp/product/import_products_csv/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 359, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py", line 95, in import_csv
+    Product.objects.bulk_create(products)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 833, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 1956, in _batched_insert
+    self._insert(
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 1918, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1925, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 243, in execute
+    return self._record(super().execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 164, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 359, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+[2026-06-07 22:00:45,722] ERROR [django.request: Internal Server Error: /admin/shopapp/product/import_products_csv/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py", line 92, in import_csv
+    Product(**row)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/base.py", line 566, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'2'": "Product.created_by" must be a "User" instance.
+[2026-06-07 22:01:06,403] ERROR [django.request: Internal Server Error: /admin/shopapp/product/import_products_csv/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py", line 92, in import_csv
+    Product(**row)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/base.py", line 566, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 287, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'2'": "Product.created_by" must be a "User" instance.
+[2026-06-07 22:02:30,722] ERROR [django.request: Internal Server Error: /admin/shopapp/product/import_products_csv/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 81, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'shopapp'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py", line 97, in import_csv
+    return redirect("admin:shopapp:products_changelist")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/shortcuts.py", line 51, in redirect
+    resolve_url(to, *args, **kwargs),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/shortcuts.py", line 184, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 87, in reverse
+    raise NoReverseMatch(
+django.urls.exceptions.NoReverseMatch: 'shopapp' is not a registered namespace inside 'admin'
+[2026-06-07 22:02:30,776] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 22:03:13,101] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:03:13,335] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:03:14,662] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-07 22:06:17,630] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:06:17,902] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:06:54,513] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:06:54,736] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:07:56,457] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:07:56,715] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:08:47,457] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:08:47,684] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:11:28,738] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:11:28,978] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:11:57,334] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:11:57,553] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:12:08,847] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:12:09,088] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:14:54,135] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:14:54,361] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:15:00,557] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:15:00,774] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:15:41,080] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:15:41,299] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:15:50,557] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:15:50,797] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:17:28,018] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:17:28,264] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:17:48,662] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:17:48,922] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:18:40,662] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:18:40,922] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:18:54,239] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/admin.py changed, reloading.]
+[2026-06-07 22:18:54,507] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:20:51,019] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:20:51,242] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:21:13,554] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:21:13,780] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:21:40,147] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:21:40,387] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:24:07,027] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:24:07,254] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:24:39,666] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:24:39,891] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:24:48,179] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/shopapp/views.py changed, reloading.]
+[2026-06-07 22:24:48,417] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:24:53,071] WARNING [django.request: Method Not Allowed: /en/shop/api/products/upload_csv/]
+[2026-06-07 22:47:39,877] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py changed, reloading.]
+[2026-06-07 22:47:40,150] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:49:43,654] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/views.py changed, reloading.]
+[2026-06-07 22:49:43,911] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:51:53,510] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/urls.py changed, reloading.]
+[2026-06-07 22:51:53,729] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:52:46,344] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/urls.py changed, reloading.]
+[2026-06-07 22:52:46,564] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:53:22,044] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/urls.py changed, reloading.]
+[2026-06-07 22:53:22,263] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:53:38,517] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/urls.py changed, reloading.]
+[2026-06-07 22:53:38,779] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:53:49,856] WARNING [django.request: Not Found: /]
+[2026-06-07 22:53:58,937] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article-detail', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article-detail' not found. 'article-detail' is not a valid view function or pattern name.
+[2026-06-07 22:54:29,412] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article-list', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article-detail' not found. 'article-detail' is not a valid view function or pattern name.
+[2026-06-07 22:54:29,592] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py changed, reloading.]
+[2026-06-07 22:54:29,829] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:54:33,318] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article-list', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article-list' not found. 'article-list' is not a valid view function or pattern name.
+[2026-06-07 22:54:42,165] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py changed, reloading.]
+[2026-06-07 22:54:42,406] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:54:43,343] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article_list', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article_list' not found. 'article_list' is not a valid view function or pattern name.
+[2026-06-07 22:54:44,515] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article_list', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article_list' not found. 'article_list' is not a valid view function or pattern name.
+[2026-06-07 22:54:45,138] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article_list', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article_list' not found. 'article_list' is not a valid view function or pattern name.
+[2026-06-07 22:54:45,312] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:article_list', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article_list' not found. 'article_list' is not a valid view function or pattern name.
+[2026-06-07 22:55:00,723] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:articles', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article_list' not found. 'article_list' is not a valid view function or pattern name.
+[2026-06-07 22:55:00,781] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py changed, reloading.]
+[2026-06-07 22:55:01,026] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:55:02,501] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 126, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 71, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 81, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py", line 35, in get_absolute_url
+    return reverse('blogapp:articles', kwargs={'pk': self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 842, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'articles' with keyword arguments '{'pk': 1}' not found. 1 pattern(s) tried: ['blog/articles/\\Z']
+[2026-06-07 22:55:09,322] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/models.py changed, reloading.]
+[2026-06-07 22:55:09,567] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:55:10,730] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 23, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 117, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 106, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 128, in _urls
+    lastmod = self._get("lastmod", item)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 39, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/sitemap.py", line 13, in lastmod
+    return obj.created_at.date()
+           ^^^^^^^^^^^^^^
+AttributeError: 'Article' object has no attribute 'created_at'
+[2026-06-07 22:56:03,420] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/sitemap.py changed, reloading.]
+[2026-06-07 22:56:03,677] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:56:04,357] ERROR [django.request: Internal Server Error: /sitemap.xml]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 221, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+[2026-06-07 22:56:33,372] WARNING [django.request: Not Found: /sitemaps.xml]
+[2026-06-07 22:56:57,420] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/settings.py changed, reloading.]
+[2026-06-07 22:56:57,612] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:57:08,826] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/mysite/settings.py changed, reloading.]
+[2026-06-07 22:57:09,042] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 22:57:10,884] WARNING [django.request: Not Found: /sitemaps.xml]
+[2026-06-07 22:57:14,091] WARNING [django.request: Not Found: /sitemaps.xml]
+[2026-06-07 23:00:01,251] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/import_export/mysite/blogapp/sitemap.py changed, reloading.]
+[2026-06-07 23:00:01,479] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 23:15:45,746] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-07 23:15:47,341] WARNING [django.request: Not Found: /]
+[2026-06-09 14:25:25,977] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:28:38,676] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.]
+[2026-06-09 14:28:38,912] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:28:48,404] WARNING [django.request: Not Found: /]
+[2026-06-09 14:28:48,528] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 14:29:03,472] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:31:33,136] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.]
+[2026-06-09 14:31:33,393] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:31:42,715] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.]
+[2026-06-09 14:31:42,948] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:32:31,087] WARNING [django.request: Not Found: /]
+[2026-06-09 14:32:46,327] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:33:06,748] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.]
+[2026-06-09 14:33:07,010] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:34:46,316] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.]
+[2026-06-09 14:34:46,560] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:35:05,947] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/myauth/views.py changed, reloading.]
+[2026-06-09 14:35:06,200] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:35:12,028] WARNING [django.request: Not Found: /]
+[2026-06-09 14:36:54,643] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/myauth/views.py changed, reloading.]
+[2026-06-09 14:36:54,884] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:38:30,164] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading.]
+[2026-06-09 14:38:30,392] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:38:59,774] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading.]
+[2026-06-09 14:38:59,999] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:39:08,630] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:42:01,265] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 14:42:01,520] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:42:18,915] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 14:42:19,148] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:43:33,182] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 14:43:33,414] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:45:11,677] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 14:45:11,903] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:47:00,304] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading.]
+[2026-06-09 14:47:00,537] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 14:47:01,537] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:01,966] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:02,214] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:02,446] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:02,662] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:02,846] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:03,046] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:03,214] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:03,397] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:03,573] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:03,742] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:03,925] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:04,102] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:04,294] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:04,494] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 14:47:04,662] INFO [shopapp.views: Rendering shop index page]
+[2026-06-09 15:02:02,634] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:02:02,871] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:03:27,994] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:03:28,243] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:03:43,589] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:03:43,807] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:04:32,499] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:04:32,719] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:04:38,947] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:04:39,167] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:07:58,523] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.]
+[2026-06-09 15:21:14,535] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:21:16,926] WARNING [django.request: Not Found: /]
+[2026-06-09 15:26:17,100] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:26:17,332] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:27:03,044] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:27:03,283] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:29:43,335] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:29:43,571] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:32:13,505] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:32:13,774] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:36:20,745] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:36:20,973] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:37:01,582] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading.]
+[2026-06-09 15:37:01,821] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:38:03,227] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:40:49,549] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:40:49,786] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:40:51,465] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:41:18,408] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:41:19,313] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:41:19,539] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:41:21,294] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:41:23,770] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:41:23,934] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:43:14,039] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:43:14,260] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:43:16,519] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:43:17,024] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:43:17,157] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:45:39,179] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:45:39,421] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:45:40,075] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:33,183] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:46:33,435] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:46:33,621] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:34,261] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:34,437] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:36,509] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:38,264] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:39,061] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:39,277] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:46:47,353] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:47:21,129] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:47:21,363] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:48:00,840] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:48:01,060] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:48:07,280] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:48:35,580] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:48:35,662] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:48:35,905] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:48:37,000] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:48:38,253] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:48:38,463] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:48:39,566] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:48:40,220] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListExportView.get() got an unexpected keyword argument 'user_id'
+[2026-06-09 15:49:20,580] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:49:20,827] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:49:21,673] ERROR [django.request: Internal Server Error: /en/shop/users/1/orders/export/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py", line 329, in get
+    cache_key = f"user_orders_export_{self.kwargs['user']}"
+                                      ~~~~~~~~~~~^^^^^^^^
+KeyError: 'user'
+[2026-06-09 15:49:32,116] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.]
+[2026-06-09 15:49:32,372] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-09 15:49:33,782] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:49:56,717] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:50:00,293] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-09 15:50:23,549] WARNING [django.request: Not Found: /en/shop/users/10/orders/export/]

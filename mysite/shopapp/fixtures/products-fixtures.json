@@ -1,0 +1,106 @@
+[
+  {
+    "model": "shopapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "Desktop",
+      "description": "Great one",
+      "price": "1999.00",
+      "discount": 5,
+      "created_at": "2026-05-23T15:28:36.389Z",
+      "archived": false,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 2,
+    "fields": {
+      "name": "Laptop",
+      "description": "goooooood",
+      "price": "1500.99",
+      "discount": 2,
+      "created_at": "2026-05-23T15:43:46.946Z",
+      "archived": false,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Phone",
+      "description": "better than iphone",
+      "price": "2999.99",
+      "discount": 10,
+      "created_at": "2026-05-23T15:44:17.214Z",
+      "archived": false,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 5,
+    "fields": {
+      "name": "Phone 3",
+      "description": "NEW NEW",
+      "price": "1250.00",
+      "discount": 5,
+      "created_at": "2026-05-28T23:46:28.817Z",
+      "archived": false,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 6,
+    "fields": {
+      "name": "NEW",
+      "description": "123",
+      "price": "123.00",
+      "discount": 1,
+      "created_at": "2026-05-29T00:17:37.313Z",
+      "archived": true,
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 7,
+    "fields": {
+      "name": "test",
+      "description": "123123",
+      "price": "123.00",
+      "discount": 2,
+      "created_at": "2026-05-31T14:18:57.204Z",
+      "archived": true,
+      "created_by": 2
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 8,
+    "fields": {
+      "name": "Vladik test",
+      "description": "1231223",
+      "price": "123123.00",
+      "discount": 4,
+      "created_at": "2026-05-31T14:28:43.990Z",
+      "archived": false,
+      "created_by": 3
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 9,
+    "fields": {
+      "name": "Test",
+      "description": "123",
+      "price": "123.00",
+      "discount": 12,
+      "created_at": "2026-06-02T16:54:37.750Z",
+      "archived": false,
+      "created_by": 3
+    }
+  }
+]

@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-05 18:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: mysite/settings.py:131
+msgid "English"
+msgstr ""
+
+#: mysite/settings.py:132
+msgid "Russian"
+msgstr "Русский"
+
+#: shopapp/models.py:16
+msgid "Product"
+msgstr "Товар"
+
+#: shopapp/models.py:17
+msgid "Products"
+msgstr "Товары"
+
+#: shopapp/models.py:39
+msgid "Order"
+msgstr "Заказ"
+
+#: shopapp/models.py:40
+msgid "Orders"
+msgstr "Заказы"
+
+#: shopapp/templates/shopapp/product_details.html:5
+#, python-format
+msgid ""
+"\n"
+"        Product #%(pk)s\n"
+"    "
+msgstr ""
+
+#: shopapp/templates/shopapp/product_details.html:12
+#, python-format
+msgid ""
+"\n"
+"            Product <strong>%(name)s</strong>\n"
+"        "
+msgstr ""
+
+#: shopapp/templates/shopapp/product_details.html:18
+msgid "Description"
+msgstr "Описание"
+
+#: shopapp/templates/shopapp/product_details.html:19
+msgid "Price"
+msgstr "Цена"
+
+#: shopapp/templates/shopapp/product_details.html:20
+msgid "Discount"
+msgstr "Скидка"
+
+#: shopapp/templates/shopapp/product_details.html:21
+msgid "Archived"
+msgstr "В архиве"
+
+#: shopapp/templates/shopapp/product_details.html:27
+msgid "Images"
+msgstr "Изображения"
+
+#: shopapp/templates/shopapp/product_details.html:31
+#, python-format
+msgid "%(count)s image available"
+msgid_plural ""
+"%(count)s images available\n"
+"                "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: shopapp/templates/shopapp/product_details.html:42
+msgid "No images uploaded"
+msgstr "Изображения не загружены"
+
+#: shopapp/templates/shopapp/product_details.html:49
+msgid "Update product"
+msgstr "Редактировать товар"
+
+#: shopapp/templates/shopapp/product_details.html:54
+msgid "Archive product"
+msgstr "Архивировать товар"
+
+#: shopapp/templates/shopapp/product_details.html:59
+msgid "Back to products list"
+msgstr "Назад к списку товаров"
+
+#, python-format
+#~ msgid ""
+#~ "\n"
+#~ "                    %(count)s image available\n"
+#~ "                "
+#~ msgid_plural ""
+#~ "\n"
+#~ "                    %(count)s images available\n"
+#~ "                "
+#~ msgstr[0] ""
+#~ "\n"
+#~ "Доступно %(count)s изображений\n"
+#~ msgstr[1] ""
+#~ "\n"
+#~ "Доступно %(count)s изображение\n"
+#~ msgstr[2] ""
+#~ "\n"
+#~ "Доступно %(count)s изображения\n"
+#~ msgstr[3] ""
+#~ "\n"
+#~ "Доступно %(count)s изображения\n"

@@ -1,0 +1,35 @@
+{% extends 'shopapp/base.html'%}
+{% load cache %}
+
+{% block title %}
+	My orders
+{% endblock %}
+
+{% block body %}
+    <h2>
+      {% if orders %}
+        User {{ owner.username }} orders
+      {% else %}
+        User {{ owner.username }} has no orders
+      {% endif %}
+    </h2>
+    <p>Email: {{ owner.email }}</p>
+
+    {% cache 600 user_orders owner.pk %}
+      {% if orders %}
+        <ul>
+          {% for order in orders %}
+            <li>
+              Order #{{ order.pk }}
+              — {{ order.created_at }}
+              — Delivery address: {{ order.delivery_address|default:"no address" }}
+              — Promo: {{ order.promocode|default:"—" }}
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>No orders yet</p>
+      {% endif %}
+    {% endcache %}
+
+{% endblock %}

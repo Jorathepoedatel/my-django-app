@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-05 18:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: mysite/settings.py:131
+msgid "English"
+msgstr "English"
+
+#: mysite/settings.py:132
+msgid "Russian"
+msgstr ""
+
+#: shopapp/models.py:16
+msgid "Product"
+msgstr "Product"
+
+#: shopapp/models.py:17
+msgid "Products"
+msgstr "Products"
+
+#: shopapp/models.py:39
+msgid "Order"
+msgstr "Order"
+
+#: shopapp/models.py:40
+msgid "Orders"
+msgstr "Orders"
+
+#: shopapp/templates/shopapp/product_details.html:5
+#, python-format
+msgid ""
+"\n"
+"        Product #%(pk)s\n"
+"    "
+msgstr ""
+
+#: shopapp/templates/shopapp/product_details.html:12
+#, python-format
+msgid ""
+"\n"
+"            Product <strong>%(name)s</strong>\n"
+"        "
+msgstr ""
+
+#: shopapp/templates/shopapp/product_details.html:18
+msgid "Description"
+msgstr "Description"
+
+#: shopapp/templates/shopapp/product_details.html:19
+msgid "Price"
+msgstr "Price"
+
+#: shopapp/templates/shopapp/product_details.html:20
+msgid "Discount"
+msgstr "Discount"
+
+#: shopapp/templates/shopapp/product_details.html:21
+msgid "Archived"
+msgstr "Archived"
+
+#: shopapp/templates/shopapp/product_details.html:27
+msgid "Images"
+msgstr "Images"
+
+#: shopapp/templates/shopapp/product_details.html:31
+#, python-format
+msgid ""
+"\n"
+"                    %(count)s image available\n"
+"                "
+msgid_plural ""
+"\n"
+"                    %(count)s images available\n"
+"                "
+msgstr[0] ""
+msgstr[1] ""
+
+#: shopapp/templates/shopapp/product_details.html:45
+msgid "No images uploaded"
+msgstr "No images uploaded"
+
+#: shopapp/templates/shopapp/product_details.html:52
+msgid "Update product"
+msgstr "Update product"
+
+#: shopapp/templates/shopapp/product_details.html:57
+msgid "Archive product"
+msgstr "Archive product"
+
+#: shopapp/templates/shopapp/product_details.html:62
+msgid "Back to products list"
+msgstr "Back to products list"
