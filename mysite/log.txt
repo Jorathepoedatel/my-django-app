@@ -1232,3 +1232,403 @@ KeyError: 'user'
 [2026-06-09 15:49:56,717] WARNING [django.request: Not Found: /favicon.ico]
 [2026-06-09 15:50:00,293] WARNING [django.request: Not Found: /favicon.ico]
 [2026-06-09 15:50:23,549] WARNING [django.request: Not Found: /en/shop/users/10/orders/export/]
+[2026-06-15 20:08:35,966] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:08:38,003] WARNING [django.request: Not Found: /]
+[2026-06-15 20:08:48,945] WARNING [django.request: Not Found: /product/]
+[2026-06-15 20:08:54,885] WARNING [django.request: Not Found: /media/products/1/preview/Untitled123.jpeg]
+[2026-06-15 20:09:09,337] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:09:09,355] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:09:09,356] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:09:09,357] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:09:09,358] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:09:09,359] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:09:09,359] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:09:09,363] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:09:09,364] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:09:09,364] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:10:44,092] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:10:46,898] WARNING [django.request: Not Found: /]
+[2026-06-15 20:10:51,276] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:10:51,277] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:10:51,278] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:10:51,279] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:10:51,280] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:10:51,281] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:10:51,282] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:23,995] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:23,996] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:23,997] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:23,998] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:23,998] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:24,000] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:24,001] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:24,045] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:24,447] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:24,448] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:24,449] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:24,449] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:24,450] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:24,451] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:24,452] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:24,496] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:24,608] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:24,609] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:24,610] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:24,611] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:24,612] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:24,612] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:24,614] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:24,658] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:24,768] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:24,769] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:24,770] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:24,771] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:24,772] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:24,773] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:24,774] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:24,818] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:24,913] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:24,913] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:24,914] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:24,915] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:24,916] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:24,917] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:24,918] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:24,962] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:25,056] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:25,057] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:25,058] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:25,059] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:25,060] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:25,061] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:25,062] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:25,106] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:25,198] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:25,199] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:25,200] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:25,200] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:25,201] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:25,202] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:25,203] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:25,249] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:25,337] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:25,338] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:25,339] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:25,340] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:25,340] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:25,341] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:25,342] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:25,345] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:25,388] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:25,481] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:25,482] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:25,483] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:25,484] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:25,485] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:25,485] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:25,486] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:25,530] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:13:25,616] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:13:25,617] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:13:25,618] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:13:25,619] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:13:25,620] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:13:25,621] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:13:25,622] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:13:25,669] WARNING [django.request: Not Found: /favicon.ico]
+[2026-06-15 20:16:27,496] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/urls.py changed, reloading.]
+[2026-06-15 20:16:27,756] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:16:29,709] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:16:29,710] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:16:29,710] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:16:29,711] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:16:29,712] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:16:29,713] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:16:29,714] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:16:30,632] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:16:30,633] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:16:30,633] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:16:30,634] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:16:30,634] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:16:30,635] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:16:30,636] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:16:30,840] WARNING [django.request: Not Found: /static/admin/css/base.css]
+[2026-06-15 20:16:30,840] WARNING [django.request: Not Found: /static/admin/css/dark_mode.css]
+[2026-06-15 20:16:30,841] WARNING [django.request: Not Found: /static/admin/js/theme.js]
+[2026-06-15 20:16:30,842] WARNING [django.request: Not Found: /static/admin/css/nav_sidebar.css]
+[2026-06-15 20:16:30,842] WARNING [django.request: Not Found: /static/admin/js/nav_sidebar.js]
+[2026-06-15 20:16:30,843] WARNING [django.request: Not Found: /static/admin/css/login.css]
+[2026-06-15 20:16:30,845] WARNING [django.request: Not Found: /static/admin/css/responsive.css]
+[2026-06-15 20:16:42,338] ERROR [django.request: Internal Server Error: /admin/login/]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 359, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: attempt to write a readonly database
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/views/generic/edit.py", line 151, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/auth/views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 187, in login
+    request.session.cycle_key()
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 434, in cycle_key
+    self.create()
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sessions/backends/db.py", line 74, in create
+    self.save(must_create=True)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/contrib/sessions/backends/db.py", line 127, in save
+    obj.save(
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/base.py", line 874, in save
+    self.save_base(
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/base.py", line 966, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/base.py", line 1169, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/base.py", line 1220, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 1918, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1925, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 359, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: attempt to write a readonly database
+[2026-06-15 20:19:01,073] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:19:06,230] WARNING [django.request: Not Found: /]
+[2026-06-15 20:21:15,030] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:21:17,132] WARNING [django.request: Not Found: /]
+[2026-06-15 20:21:18,193] WARNING [django.request: Not Found: /]
+[2026-06-15 20:26:42,183] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:26:42,420] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:26:45,877] ERROR [django.security.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 308, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/http/request.py", line 206, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2026-06-15 20:26:59,903] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:27:00,142] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:27:39,832] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:27:40,060] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:27:40,876] ERROR [django.security.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 308, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/http/request.py", line 206, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2026-06-15 20:27:42,443] ERROR [django.security.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 308, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/http/request.py", line 206, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2026-06-15 20:27:42,632] ERROR [django.security.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.]
+Traceback (most recent call last):
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 308, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/gnida/PycharmProjects/python_django/.venv/lib/python3.12/site-packages/django/http/request.py", line 206, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2026-06-15 20:27:54,459] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:27:54,707] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:29:08,813] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:29:18,785] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:29:21,159] WARNING [django.request: Not Found: /]
+[2026-06-15 20:29:30,182] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:29:30,436] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:29:30,840] WARNING [django.request: Not Found: /]
+[2026-06-15 20:29:31,830] WARNING [django.request: Not Found: /]
+[2026-06-15 20:29:31,979] WARNING [django.request: Not Found: /]
+[2026-06-15 20:29:59,000] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:29:59,250] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:30:09,609] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:30:09,858] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:32:22,695] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:32:22,953] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:32:25,537] WARNING [django.request: Not Found: /]
+[2026-06-15 20:32:38,123] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:32:40,560] WARNING [django.request: Not Found: /]
+[2026-06-15 20:32:41,479] WARNING [django.request: Not Found: /]
+[2026-06-15 20:32:41,631] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:03,101] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:03,697] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:33:03,940] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:33:05,526] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:06,029] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:06,210] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:06,370] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:14,858] WARNING [django.request: Not Found: /]
+[2026-06-15 20:33:15,358] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:33:15,593] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:33:16,351] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:13,207] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:35:13,455] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:35:15,405] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:41,858] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:42,650] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:42,831] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:42,992] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:43,193] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:52,777] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:55,455] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:56,120] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:56,272] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:56,402] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:58,370] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:35:59,327] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:59,639] WARNING [django.request: Not Found: /]
+[2026-06-15 20:35:59,825] WARNING [django.request: Not Found: /]
+[2026-06-15 20:36:00,015] WARNING [django.request: Not Found: /]
+[2026-06-15 20:36:20,873] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:36:21,113] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:36:23,316] WARNING [django.request: Not Found: /]
+[2026-06-15 20:36:23,809] WARNING [django.request: Not Found: /]
+[2026-06-15 20:36:23,975] WARNING [django.request: Not Found: /]
+[2026-06-15 20:36:24,142] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:28,280] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:37:30,164] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:31,224] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:31,373] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:40,665] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:40,700] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:37:40,973] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:37:41,565] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:41,766] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:41,941] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:49,152] WARNING [django.request: Not Found: /]
+[2026-06-15 20:37:49,298] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:37:49,544] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:37:50,458] WARNING [django.request: Not Found: /]
+[2026-06-15 20:38:15,080] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:38:15,319] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:38:16,202] WARNING [django.request: Not Found: /]
+[2026-06-15 20:38:17,023] WARNING [django.request: Not Found: /]
+[2026-06-15 20:38:17,197] WARNING [django.request: Not Found: /]
+[2026-06-15 20:39:14,256] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:39:14,576] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:40:16,548] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:40:16,820] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:40:17,962] WARNING [django.request: Not Found: /]
+[2026-06-15 20:40:19,350] WARNING [django.request: Not Found: /]
+[2026-06-15 20:40:21,106] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:40:21,407] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:41:09,175] WARNING [django.request: Not Found: /]
+[2026-06-15 20:41:09,313] WARNING [django.request: Not Found: /]
+[2026-06-15 20:43:45,073] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:43:45,313] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:43:55,302] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:46:29,377] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:46:29,621] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:46:31,611] WARNING [django.request: Not Found: /]
+[2026-06-15 20:46:32,640] WARNING [django.request: Not Found: /]
+[2026-06-15 20:46:32,802] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:02,278] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:47:02,533] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:47:04,273] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:16,217] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:16,921] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:17,141] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:26,231] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:26,744] WARNING [django.request: Not Found: /]
+[2026-06-15 20:47:26,885] WARNING [django.request: Not Found: /]
+[2026-06-15 20:48:12,595] INFO [django.utils.autoreload: Watching for file changes with StatReloader]
+[2026-06-15 20:48:20,916] INFO [django.utils.autoreload: /home/gnida/PycharmProjects/python_django/prod/mysite/mysite/settings.py changed, reloading.]
+[2026-06-15 20:48:21,151] INFO [django.utils.autoreload: Watching for file changes with StatReloader]

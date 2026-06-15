@@ -6,8 +6,10 @@ WORKDIR /app
 
 COPY requirements.txt requirements.txt
 
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install --upgrade pip "poetry==2.4.1"
+RUN poetry config virtualebvs.create false --local
+COPY pyproject.toml poetry.lock ./
+RUN poetry install
 
 COPY mysite .
 
