@@ -19,7 +19,7 @@ services:
 #        loki-url: http://host.docker.internal:3100/loki/api/v1/push
     volumes:
       - ./mysite/database:/app/database
-      - static_volume:/app/staticfiles:ro
+      - static_volume:/app/staticfiles
 #    depends_on:
 #      - loki
   nginx:
